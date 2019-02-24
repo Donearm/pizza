@@ -13,19 +13,45 @@ package main
 
 import (
 	"fmt"
+	"encoding/json"
 
 	"github.com/codingsince1985/geo-golang/openstreetmap"
+	"github.com/mziia/geogoth"
 )
 
-const (
-	ADDR = "Rydlowka 31/46, 30363, Krakow, Poland"
-)
+type pizzeria struct {
+	address string
+	city string
+	name string
+	website string
+}
+
+func newCollection(c *geogoth.Features, lat float64, lng float64, id string, p *pizzeria) {
+	point := geogoth.NewPoint([]float64{lat, lng})
+	feature := geogoth.NewFeature()
+
+	feature.SetID(id)
+	feature.SetProperty("city", p.city)
+	feature.SetProperty("pizzeria", p.name)
+	feature.SetProperty("address", p.address)
+	feature.SetProperty("website", p.website)
+	feature.SetGeometry(point)
+	c.AddFeature(feature)
+
+	m, _ := json.Marshal(c)
+	fmt.Println(string(m))
+}
+
 
 func main() {
+	// Initialize OpenStreetMap geocoder
 	g := openstreetmap.Geocoder()
-	location, _ := g.Geocode(ADDR)
+	// Initialize test pizzeria
+	n := pizzeria{"623 E. Adams St.", "Phoenix", "Pizzeria Bianco", "http://www.pizzeriabianco.com"}
+	testAddress := n.address + ", " + n.city
+	location, _ := g.Geocode(testAddress)
 	if location != nil {
-		fmt.Printf("%s location is (%.6f, %.6f)\n", ADDR, location.Lat, location.Lng)
+		fmt.Printf("%s location is (%.6f, %.6f)\n", testAddress, location.Lat, location.Lng)
 	} else {
 		fmt.Println("got <nil> location")
 	}
@@ -37,5 +63,9 @@ func main() {
 		fmt.Println("got <nil> address")
 	}
 	fmt.Print("\n")
+
+
+	featureC := geogoth.NewFeatureCollection()
+	newCollection(featureC, 40.55555, 11.4343, "00001", &n)
 }
 
