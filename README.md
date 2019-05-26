@@ -443,9 +443,27 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 ## International Pizza
 
+### Austria
+
+#### Lambach
+
+* [La Stella del Sud](https://www.instagram.com/la.stella.del.sud.lambach/) - [Marktpl. 2](#address)
+
+### Albania
+
+#### Tirana
+
+* [Pepper](http://pepper-tirana.com/) - [Rruga Brigada e VIII](#address)
+
 ### Belgium
 
+#### Bruxelles
+
+* [La Piola Pizza](http://www.lapiolapizza.com/) - [Place Saint-Josse 8](#address)
+* [La Pizza è Bella](https://lapizzaebella.be/en) - [Rue Lebeau 75](#address)
+
 #### Leuven
+
 * [La Vecchia Napoli](http://www.lavecchianapoli.be) - [Pensstraat 6](#address)
 * [Pronto](https://plus.google.com/100388940239717823303/about?gl=be&hl=en) - [Muntstraat 14](#address)
 
@@ -469,11 +487,31 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Zio’s Pizzeria](ttps://www.yelp.ca/biz/zios-pizzeria-moncton) - [214 Church Street](#address)
 
+### Czech Republic
+
+#### Prague
+
+* [Pizza Nuova](http://www.pizzanuova.cz/cz/?land_off=1) - [Revoluční 655/1](#address)
+
 ### Denmark
 
 ### Copenhagen
 
-* [Bæst]( http://baest.dk/) - [Guldbergsgade 29](#address)
+* [Bæst](http://baest.dk/) - [Guldbergsgade 29](#address)
+* [Luca](https://www.iloveluca.dk) - [Gammel Strand 42](#address)
+* [Mother](https://mother.dk) - [Høkerboderne 9-15](#address)
+
+### Estonia
+
+#### Tallin
+
+* [Kaja Pizza Köök](http://kajapizza.ee/) - [Õle 33](#address)
+
+### Finland
+
+#### Helsinki
+
+* [Putte's](http://puttes.fi/) - [Kalevankatu 6](#address)
 
 ### France
 
@@ -484,26 +522,37 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Paris
 
 * [Bijou](https://bijou-paris.fr/) - [10 Rue Dancourt](#address)
+* [Guillaume Grasso](https://www.guillaume-grasso.com) - [45 Rue Brancion](#address)
+* [Louie Louie](https://www.louielouie.paris) - [78 Rue de Charonne](#address)
+* [Manhattan Terrazza](https://www.manhattanterrazza.fr) - [108 Avenue de Villiers](#address)
+* [Ober Mamma](https://www.bigmammagroup.com/en/accueil) - [107 Boulevard Richard Lenoir](#address)
+* [Pizzeria Popolare](https://www.bigmammagroup.com) - [111 Rue Réaumur](#address)
 * [Rossini](http://www.yelp.com/biz/rossini-paris-3) - [8 Rue Rossini](#address)
-
-### Japan
-
-#### Tokyo
-
-* [Pizza Strada](http://www.pizzastrada.jp) - [NS Azabu Juban Bldg. 1F, 3-6-2, Azabu](#address)
-
-### Switzerland
-
-#### Geneva
-
-* [Luigia](http://www.luigia.ch/) - [1209, Chemin de la Tourelle 2](#address)
+* [Tripletta](https://triplettabelleville.fr) - [88 Boulevard de Belleville](#address)
 
 ### Germany
 
 #### Berlin
 
-* [Trattoria Toscana](http://www.toscana-tempelhof.de/) - [Sredzkistraße 49](#address)
+* [Gazzo](https://www.gazzopizza.com) - [Hobrechtstraße 57](#address)
+* [Malafemmena](http://malafemmena.restaurant/) - [Hauptstraße 85](#address)
 * [Pomodorino](https://www.pomodorino.de/pomodorino) - [Straßmannstraße 21](#address)
+* [Standard Serious Pizza](http://www.standard-berlin.de) - [Templiner Str. 7](#address)
+* [Trattoria Toscana](http://www.toscana-tempelhof.de/) - [Sredzkistraße 49](#address)
+
+#### Frankfurt am Main
+
+* [Montana](http://www.montana-pizzeria.de) - [Weserstraße 14](#address)
+
+#### Munchen
+
+* [60 Secondi](https://www.60-seconds.de) - [Occamstraße 11](#address)
+
+### Ireland
+
+#### Dublin
+
+* [Manifesto](www.manifestorestaurant.ie) - [208 Rathmines Rd Lower](#address)
 
 ### Italy
 
@@ -562,11 +611,29 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Saporè](http://www.saporeverona.it/) - [Via Ponte 55A](#address)
 
+### Japan
+
+#### Tokyo
+
+* [Pizza Strada](http://www.pizzastrada.jp) - [NS Azabu Juban Bldg. 1F, 3-6-2, Azabu](#address)
+
 ### Malta
 
 #### Valletta
 
 * [Vecchia Taranto](http://www.tripadvisor.com/Restaurant_Review-g190328-d6674945-Reviews-Pizzeria_Trattoria_Vecchia_Taranto-Valletta_Island_of_Malta.html) - [279 Saint Paul Street](#address)
+
+### Netherlands
+
+#### Amsterdam
+
+* [nNea](https://www.nneapizza.com) - [Bilderdijkstraat 92](#address)
+
+### Norway
+
+#### Oslo
+
+* [Vinoteket](http://vinoteket.no/) - [Henrik Ibsens gate 60a](#address)
 
 ### Poland
 
@@ -579,13 +646,66 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 #### Warsaw
 
+* [Ave Pizza](https://www.avepizza.pl) - [Topiel 12](#address)
 * [Mąka i Woda](https://www.facebook.com/MakaiWoda) - [Chmielna 13a](#address)
 
+### Portugal
+
+#### Lisbon
+
+* [Forno d'Oro](http://www.fornodoro.pt) - [R. Artilharia 1 16b](#address)
+
+### Romania
+
+#### Bucarest
+
+* [Animaletto](http://www.animaletto.ro) - [Strada I.C. Visarion 10 Parter](#address)
+
+### Russia
+
+#### Moscow
+
+* [Eataly Moscow](https://www.eataly.ru) - [Ulitsa Kiyevskaya, 2](#address)
+* [Luciano](http://www.lucianomoscow.ru/ru/) - [Smolenskaya Square, 3](#address)
+
+### Slovakia
+
+#### Bratislava
+
+* [Basilicò](https://basilico-italian-restaurant.business.site) - [Dunajská 25](#address)
+
+### Spain
+
+#### Barcelona
+
+* [La Balmesina](http://www.labalmesina.com) - [Carrer de Balmes, 193](#address)
+
+#### Madrid
+
+* [Grosso Napoletano](http://www.grossonapoletano.com) - [Calle de Sta Engracia, 48](#address)
+* [Oven](http://www.oven.es) - [Calle Gran Vía, 6](#address)
+
 ### Sweden
+
+#### Falkenberg
+
+* [Lilla Napoli](http://www.lillanapoli.se) - [Halmstadvägen 1](#address)
+
+#### Goteborg
+
+* [Bov](http://www.bovgbg.com) - [Gibraltargatan 20](#address)
 
 #### Onsala
 
 * [Onsala Pizzeria](https://www.youtube.com/watch?v=ytXzO8_BMrQ) - [Kopparvägen 30](#address)
+
+### Switzerland
+
+#### Geneva
+
+* [Kytaly](https://kytaly.ch) - [Boulevard Georges-Favon 12](#address)
+* [Luigia](http://www.luigia.ch/) - [1209, Chemin de la Tourelle 2](#address)
+
 
 ### Tanzania
 
@@ -593,20 +713,44 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [The Waterfront Sunset Restaurant & Beach Bar](http://www.tripadvisor.com/Restaurant_Review-g293748-d2264564-Reviews-The_Waterfront_Sunset_Restaurant_Beach_Bar-Dar_es_Salaam_Dar_Es_Salaam_Region.html) - [Msasani Peninsula](#address)
 
+### Ukraine
+
+#### Kyiv
+
+* [Positano](https://positano.kiev.ua) - [Pavla Tychyny Ave, 1в](#address)
+
 ### United Kingdom
-
-#### London
-
-* [Pizza Pilgrims](http://pizzapilgrims.co.uk/) - [11 Dean St](#address)
-* [Princi](http://www.princi.com/) - [135 Wardour St](#address)
-
-#### Southampton
-
-* [It's a Pizza Thing](https://www.facebook.com/apizzathing) - [38-40 Adelaide Rd](#address)
 
 #### Glasgow
 
 * [La Favorita](http://lafav.co.uk/glasgow/) - [23-25 Gibson Street](#address)
+* [Paesano](https://paesanopizza.co.uk) - [94 Miller St](#address)
+
+#### London
+
+* [50 Kalò di Ciro Salvo](https://www.50kalo.it/ciro__salvo.php) - [7 Northumberland Ave](#address)
+* [Addommé](http://www.addomme.co.uk) - [17-21 Sternhold Ave](#address)
+* [Hai Cenato](http://www.haicenato.co.uk) - [2 Sir Simon Milton Square](#address)
+* [L'Antica Pizzeria](http://www.anticapizzeria.co.uk) - [66 Heath St](#address)
+* [L'Antica Pizzeria Da Michele](https://www.anticapizzeriadamichele.co.uk) - [199 Baker St](#address)
+* [Made of Dough](http://www.madeofdough.co.uk) - [182 Bellenden Rd](#address)
+* [Pizza Pilgrims](http://pizzapilgrims.co.uk/) - [11 Dean St](#address)
+* [Princi](http://www.princi.com/) - [135 Wardour St](#address)
+* [Santoré](http://www.santorerestaurant.london) - [59 - 61 Exmouth Market](#address)
+* [Sodo Pizza Hoxton](https://www.sodopizza.co.uk) - [The George and Vulture, 63 Pitfield St](#address)
+
+#### Manchester
+
+* [Double Zero](https://www.pizzeriadoublezero.com) - [368 Barlow Moor Rd](#address)
+* [Rudy's Neapolitan Pizza](https://www.rudyspizza.co.uk) - [9 Cotton St](#address)
+
+#### Manchester
+
+* [Rudy's Neapolitan Pizza](https://www.rudyspizza.co.uk) - [9 Cotton St](#address)
+
+#### Southampton
+
+* [It's a Pizza Thing](https://www.facebook.com/apizzathing) - [38-40 Adelaide Rd](#address)
 
 ### Brazil
 
