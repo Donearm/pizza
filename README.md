@@ -116,7 +116,10 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Atlanta
 
 * [Ammazza](http://ammazza.com/) - [591 Edgewood Ave SE](#address)
-* [Antico Pizza Napoletana](http://littleitalia.com/) - [1093 Hemphill Ave](#address)
+* [Antico Pizza Napoletana](http://lit
+
+
+tleitalia.com/) - [1093 Hemphill Ave](#address)
 * [Double Zero](http://www.doublezeroatl.com/) - [5825 Roswell Road Northeast](#address)
 * [St. Angelo's](http://www.stangelos.com/) - [4686 S Atlanta Rd SE](#address)
 
@@ -534,6 +537,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 #### Berlin
 
+* [PizzaNostra](https://www.pizzanostra.de) - [Lychener Straße 2](#address)
 * [Gazzo](https://www.gazzopizza.com) - [Hobrechtstraße 57](#address)
 * [Malafemmena](http://malafemmena.restaurant/) - [Hauptstraße 85](#address)
 * [Pomodorino](https://www.pomodorino.de/pomodorino) - [Straßmannstraße 21](#address)
