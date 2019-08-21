@@ -1,7 +1,7 @@
 # Pizza
 
 <p align="center">
-![](pizza.gif)
+	<img src="pizza.gif" type="image/gif" alt="where's the pizza?">
 </p>
 
 Where is the best pizza in a given city? This is a community project. Pull requests accepted and I will totally make you a
