@@ -652,6 +652,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Warsaw
 
 * [Ave Pizza](https://www.avepizza.pl) - [Topiel 12](#address)
+* [Ciao a Tutti Due](https://www.facebook.com/ciaotuttipizza/) - [Jaroslawa Dabrowskiego 27](#address)
 * [Mąka i Woda](https://www.facebook.com/MakaiWoda) - [Chmielna 13a](#address)
 
 ### Portugal
