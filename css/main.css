@@ -1,4 +1,65 @@
-#mapid { 
-	height: 600px;
-	width: 1200px;
+body {
+	font-family: 'Oswald', sans-serif;
+	background-color: #fa9b01;
+	color: #fefefe;
 }
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	src: local("Quattrocento"), url("Quattrocento-Regular.ttf"), format("ttf");
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: bold;
+	font-weight: 400;
+	src: local("Quattrocento"), url("Quattrocento-Bold.ttf"), format("ttf");
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	src: local("Oswald"), url("Oswald-Bold.ttf"), format("ttf");
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: bold;
+	font-weight: 400;
+	src: local("Oswald"), url("Oswald-Bold.ttf"), format("ttf");
+}
+
+#container {
+	margin-left: 1%;
+	display: grid;
+	grid-template-columns: [map] 75% [desc] 25%;
+	grid-template-rows: [banner] 15% [main] 80% [footer] auto;
+	grid-template-areas:
+		"banner banner"
+		"map desc"
+		"footer footer";
+}
+#mapid { 
+	grid-area: map;
+	height: 800px;
+	width: 1200px;
+	border: solid 2px #fefefe;
+}
+#banner {
+	grid-area: banner;
+	font-family: "Quattrocento", serif;
+}
+#footer {
+	grid-area: footer;
+}
+#footer p {
+	font-weight: bold;
+	font-size: 14pt;
+}
+
+h1 { font-size: 22pt; }
+h2 { font-size: 18pt; }
+h3 { font-size: 16pt; }
+h4 { font-size: 14pt; }
+h5 { font-size: 12pt; }
+h6 { font-size: 10pt; }
