@@ -4,6 +4,12 @@ mymap.setMaxBounds([
 	[90, 180]
 ]);
 
+function locateUser(map) {
+	if (navigator.geolocation) {
+		map.locate({setView: true });
+	}
+}
+
 let osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 	maxZoom: 19,
 	attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
@@ -38,3 +44,5 @@ xhr.onload = function() {
 	dataLayer.addTo(mymap);
 };
 xhr.send();
+
+locateUser(mymap);
