@@ -38,7 +38,7 @@ xhr.onload = function() {
 					autoclose: true
 				}
 			});
-			return L.marker(latlng, {icon: new pizzaIcon()}).bindPopup('<b>' + name + '</b><br /><a href="' + website + '">' + website + '</a><br>' + address + '<br>');
+			return L.marker(latlng, {icon: new pizzaIcon()}).bindPopup('<b id="pizzerianame">' + name + '</b><br /><a href="' + website + '">' + website + '</a><br>' + address + '<br>');
 		},
 	});
 	dataLayer.addTo(mymap);

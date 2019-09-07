@@ -59,6 +59,22 @@ body {
 	font-size: 14pt;
 }
 
+#pizzerianame {
+	font-size: 14pt;
+}
+
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+	font-size: 12pt;
+	color: #fefefe;
+	background-color: #fa9b01;
+	border: 1px solid #fefefe;
+}
+/*.leaflet-popup-content-wrapper, .leaflet-popup-tip a {*/
+.leaflet-popup-content a {
+	color: #073f8d;
+	text-decoration: none;
+}
+
 h1 { font-size: 22pt; }
 h2 { font-size: 18pt; }
 h3 { font-size: 16pt; }
