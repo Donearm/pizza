@@ -8,18 +8,6 @@ body {
 	font-family: 'Open Sans';
 	font-style: normal;
 	font-weight: 400;
-	src: local("Quattrocento"), url("Quattrocento-Regular.ttf"), format("ttf");
-}
-@font-face {
-	font-family: 'Open Sans';
-	font-style: bold;
-	font-weight: 400;
-	src: local("Quattrocento"), url("Quattrocento-Bold.ttf"), format("ttf");
-}
-@font-face {
-	font-family: 'Open Sans';
-	font-style: normal;
-	font-weight: 400;
 	src: local("Oswald"), url("Oswald-Bold.ttf"), format("ttf");
 }
 @font-face {
@@ -46,8 +34,10 @@ body {
 	border: solid 2px #fefefe;
 }
 #banner {
+	padding: 0 0 0 15px;
 	grid-area: banner;
-	font-family: "Quattrocento", serif;
+	letter-spacing: 0.3em;
+	font-family: "Oswald", sans-serif;
 }
 #footer {
 	grid-area: footer;
