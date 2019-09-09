@@ -1,27 +1,33 @@
-let mymap = L.map('mapid').setView([51.505, -0.09], 2);
-mymap.setMaxBounds([
-	[-90, -180],
-	[90, 180]
-]);
-
 function locateUser(map) {
 	if (navigator.geolocation) {
 		map.locate({setView: true });
 	}
 }
 
-let osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-	maxZoom: 19,
-	attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-}).addTo(mymap);
+var pizzerias = $.ajax({
+	dataType: "json",
+	url: "pizzerias.geojson",
+/*	success: function(data) {
+/*		console.log(data);
+/*	}, */
+	error: function(xhr) {
+		alert(xhr.statusText);
+	}
+})
+$.when(pizzerias).done(function() {
+	let pizzamap = L.map('mapid')
+		.setView([51.505, -0.09], 2)
+		.setMaxBounds([
+			[-90, -180],
+			[90, 180]
+		]);
 
-let xhr = new XMLHttpRequest();
-xhr.open('GET', "pizzerias.geojson");
-xhr.setRequestHeader('Content-Type', 'application/json');
-xhr.responseType = 'json';
-xhr.onload = function() {
-	if (xhr.status !== 200) { return }
-	let dataLayer = L.geoJSON(xhr.response, {
+	let osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+		maxZoom: 19,
+		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+	}).addTo(pizzamap);
+
+	let dataLayer = new L.geoJSON(pizzerias.responseJSON, {
 		pointToLayer: function(feature, latlng) {
 			let pizzaIcon = L.Icon.extend({
 				options: {
@@ -40,9 +46,6 @@ xhr.onload = function() {
 			});
 			return L.marker(latlng, {icon: new pizzaIcon()}).bindPopup('<b id="pizzerianame">' + name + '</b><br /><a href="' + website + '">' + website + '</a><br>' + address + '<br>');
 		},
-	});
-	dataLayer.addTo(mymap);
-};
-xhr.send();
-
-locateUser(mymap);
+	}).addTo(pizzamap);
+	locateUser(pizzamap);
+});
