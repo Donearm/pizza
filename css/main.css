@@ -59,6 +59,37 @@ body {
 	font-size: 14pt;
 }
 
+#pizzerianame {
+	font-size: 14pt;
+}
+
+/* Leaflet popup styling */
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+	font-size: 12pt;
+	color: #fefefe;
+	background-color: #fa9b01;
+	border: 1px solid #fefefe;
+}
+.leaflet-popup-content a {
+	color: #073f8d;
+	text-decoration: none;
+}
+
+/* Leaflet fusesearch text over the search input */
+.panel-title {
+	font-size: 14pt;
+}
+/* Leaflet fusesearch search input styling */
+.leaflet-fusesearch-panel .search-input {
+	background: #fa9b01;
+	color: #fefefe;
+	font-weight: bold;
+	border: 0;
+	height: 1.75em;
+	width: 75%;
+	box-shadow: 4px 4px black;
+}
+
 h1 { font-size: 22pt; }
 h2 { font-size: 18pt; }
 h3 { font-size: 16pt; }
