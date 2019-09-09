@@ -4,6 +4,8 @@ function locateUser(map) {
 	}
 }
 
+let searchCtrl = L.control.fuseSearch({panelTitle: "Search for a specific pizzeria"});
+
 var pizzerias = $.ajax({
 	dataType: "json",
 	url: "pizzerias.geojson",
@@ -28,6 +30,9 @@ $.when(pizzerias).done(function() {
 	}).addTo(pizzamap);
 
 	let dataLayer = new L.geoJSON(pizzerias.responseJSON, {
+		onEachFeature: function(feature, layer) {
+			feature.layer = layer;
+		},
 		pointToLayer: function(feature, latlng) {
 			let pizzaIcon = L.Icon.extend({
 				options: {
@@ -47,5 +52,11 @@ $.when(pizzerias).done(function() {
 			return L.marker(latlng, {icon: new pizzaIcon()}).bindPopup('<b id="pizzerianame">' + name + '</b><br /><a href="' + website + '">' + website + '</a><br>' + address + '<br>');
 		},
 	}).addTo(pizzamap);
+
+	// add search control to the map
+	searchCtrl.indexFeatures(pizzerias.responseJSON, ['pizzeria', 'address', 'city']);
+	searchCtrl.addTo(pizzamap);
+
+	// ask to geolocate the user
 	locateUser(pizzamap);
 });
