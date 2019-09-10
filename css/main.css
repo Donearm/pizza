@@ -1,6 +1,10 @@
 body {
 	font-family: 'Oswald', sans-serif;
-	background-color: #fa9b01;
+	background: url(../images/pizza-background.jpg) #fa9b01;
+	/*
+	-moz-linear-gradient: (top, rgba(255, 255, 255, 0) 0%,  rgba(250, 155, 1, 1) 100%);
+	linear-gradient: (to bottom  rgba(255, 255, 255, 0) 0%,  rgba(250, 155, 1, 1) 100%);
+	*/
 	color: #fefefe;
 }
 
@@ -20,7 +24,7 @@ body {
 	margin-left: 1%;
 	display: grid;
 	align-items: center;
-	grid-template-columns: [map] 75% [desc] 25%;
+	grid-template-columns: [map] 65% [desc] 35%;
 	grid-template-rows: [banner] 15% [mainup] 30% [maincenter] 30% [maindown] 30% [footer] auto;
 	grid-template-areas:
 		"banner banner"
@@ -37,6 +41,9 @@ body {
 }
 #desc {
 	grid-area: desc;
+	padding: 0 10px 0 0;
+	text-align: left;
+	font-size: 13pt;
 }
 #banner {
 	padding: 0 0 0 15px;
