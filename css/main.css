@@ -16,22 +16,27 @@ body {
 	font-weight: 400;
 	src: local("Oswald"), url("Oswald-Bold.ttf"), format("ttf");
 }
-
 #container {
 	margin-left: 1%;
 	display: grid;
+	align-items: center;
 	grid-template-columns: [map] 75% [desc] 25%;
-	grid-template-rows: [banner] 15% [main] 80% [footer] auto;
+	grid-template-rows: [banner] 15% [mainup] 30% [maincenter] 30% [maindown] 30% [footer] auto;
 	grid-template-areas:
 		"banner banner"
-		"map desc"
+		"mainup desc"
+		"maincenter desc"
+		"maindown desc"
 		"footer footer";
 }
 #mapid { 
-	grid-area: map;
+	grid-area: mainup mainup maindown maindown;
 	height: 800px;
 	width: 1200px;
 	border: solid 2px #fefefe;
+}
+#desc {
+	grid-area: desc;
 }
 #banner {
 	padding: 0 0 0 15px;
