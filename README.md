@@ -4,8 +4,18 @@
 	<img src="pizza.gif" type="image/gif" alt="where's the pizza?">
 </p>
 
-Where is the best pizza in a given city? This is a community project. Pull requests accepted and I will totally make you a
-collaborator—if you ask and you're not some kind of deep-dish-eating monster.
+Where is the best pizza in the world? 
+
+This is a community project that couldn't be born out of a single person and 
+thus collects the contributions of many collaborators. Originally it was at <a 
+href="https://github.com/stevekinney/pizza" alt="original 
+project">stevekinney/pizza</a>, to which go my thanks for the idea and first 
+realization.
+
+It goes without saying that many cities and countries are missing and we need 
+your contributions to signal the best pizzerias in them. Only true pizza 
+though, no deep-dishes or focaccias. Pull requests are more than welcome, vital 
+even.
 
 ### Arizona
 
