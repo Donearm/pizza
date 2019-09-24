@@ -71,7 +71,7 @@ func main() {
 
 	// output to readme the full list of pizzerias
 	for _, p := range pizzerias.PizzaList {
-		pizzaString := "* [" + p.Name + "](" + p.Website + ")" + " - " + p.Address + ", " + p.City + ", " + p.Country
+		pizzaString := "* [" + p.Name + "](" + p.Website + ")" + " - " + p.Address + ", **" + p.City + "**, " + p.Country
 		writeToFile(output, pizzaString)
 		writeToFile(output, "\n")
 	}
