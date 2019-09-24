@@ -71,7 +71,12 @@ func main() {
 
 	// output to readme the full list of pizzerias
 	for _, p := range pizzerias.PizzaList {
-		pizzaString := "* [" + p.Name + "](" + p.Website + ")" + " - " + p.Address + ", **" + p.City + "**, " + p.Country
+		var pizzaString string
+		if p.State != "" {
+			pizzaString = "* [" + p.Name + "](" + p.Website + ")" + " - " + p.Address + ", **" + p.City + "**, " + p.State + ", " + p.Country
+		} else {
+			pizzaString = "* [" + p.Name + "](" + p.Website + ")" + " - " + p.Address + ", **" + p.City + "**, " + p.Country
+		}
 		writeToFile(output, pizzaString)
 		writeToFile(output, "\n")
 	}

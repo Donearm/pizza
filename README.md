@@ -19,81 +19,81 @@ even.
 
 To actually know how to contribute, check the [Contribute file](CONTRIBUTING)
 
-* [Pizzeria Bianco](http://www.pizzeriabianco.com) - 623 E. Adams Street, **Phoenix**, USA
-* [The Cheese Board Collective](http://cheeseboardcollective.com) - 1504 Shattuck Avenue, **Berkeley**, USA
-* [Emilia's](http://emiliaspizzeria.com) - 2995 Shattuck Avenue, **Berkeley**, USA
-* [Celestino's](http://www.celestinosnypizza.com) - 101 Salem Street, **Chicago**, USA
-* [Pizzeria Mozza](http://www.pizzeriamozza.com) - 641 North Highland Avenue, **Los Angeles**, USA
-* [Nicks](http://oaklandstylepizza.com) - 6211 Shattuck Avenue, **Oakland**, USA
-* [Terun](http://terunpizza.com) - 448 S. California Avenue, **Palo Alto**, USA
-* [Pizza Port Ocean Beach](http://www.pizzaport.com) - 1956 Bacon Street, **San Diego**, USA
-* [Sicilian Thing Pizza](http://www.sicilianthingpizza.com) - 4046 30th Street, **San Diego**, USA
-* [Tony's Pizza Napoletana](http://tonyspizzanapoletana.com) - 1570 Stockton Street, **San Francisco**, USA
-* [Una Pizza Napoletana](http://www.unapizza.com) - 210 11th Street, **San Francisco**, USA
-* [Milo & Olive](http://www.miloandolive.com) - 2723 Wilshire Boulevard, **Santa Monica**, USA
-* [Pizzeria Locale](http://localeboulder.com) - 1730 Pearl Street, **Boulder**, USA
-* [Lucky Pie Pizza & Taphouse](http://www.lukypiepizza.com/lodo) - 1610 16th Street, **Denver**, USA
-* [Grimaldi's Pizzeria](http://www.grimaldispizzeria.com) - 500 16th Street, **Denver**, USA
-* [Cart Driver](http://cart-driver.com) - 2500 Larimer Street, **Denver**, USA
-* [Da Legna](http://dalegna.com) - 858 State Street, **New Haven**, USA
-* [Modern Apizza](http://www.modernapizza.com) - 874 State Street, **New Haven**, USA
-* [Sally's Apizza](http://www.sallysapizza.com) - 237 Wooster Street, **New Haven**, USA
-* [2 Amys](http://2amyspizza.com) - 3715 Macomb Street NW, **Washington**, USA
-* [Pete's New Haven Pizza](http://petesapizza.com) - 1400 Irving Street NW #103, **Washington**, USA
-* [Leonardo's By The Slice](http://www.leonardosgainesville.com) - 1245 W University Avenue, **Gainesville**, USA
-* [Satchel's](http://www.satchelspizza.com) - 1800 NE 23rd Avenue, **Gainesville**, USA
-* [Lazy Moon](http://www.lazymoonpizza.com) - 11551 University Boulevard, **Orlando**, USA
-* [Ammazza](http://ammazza.com) - 591 Edgewood Avenue, **Atlanta**, USA
-* [Antico Pizza Napoletana](http://littleitalia.com) - 1093 Hemphill Avenue, **Atlanta**, USA
-* [Coalfire](http://coalfirechicago.com) - 1321 West Grand Avenue, **Chicago**, USA
-* [Spacca Napoli](http://www.spaccanapolipizzeria.com) - 1769 West Sunnyside Avenue, **Chicago**, USA
-* [Pizza X](http://www.pizzaxbloomington.com) - 1791 East 10th Street, **Bloomington**, USA
-* [Napolese](http://napolesepizzeria.com) - 30 S Meridian Street, **Indianapolis**, USA
-* [Santarpio's Pizza](http://www.santarpiospizza.com) - 111 Chelsea Street, **Boston**, USA
-* [Pizza Luce](https://pizzaluce.com) - 119 N 4th Street, **Minneapolis**, USA
-* [Pizzeria Lola](http://www.pizzerialola.com) - 5557 South Xerxes Avenue, **Minneapolis**, USA
-* [Punch Neapolitan Pizza](http://www.punchpizza.com) - 210 E Hennepin Avenue, **Minneapolis**, USA
-* [Settebello](http://settebello.net) - 140 S Green Valley Parkway, **Henderson**, USA
-* [Porta](http://pizzaporta.com) - 911 Kingsley Street, **Asbury Park**, USA
-* [DeLorenzo's Pizza](https://www.delorenzospizza.com/) - 147 Sloan Avenue, **Hamilton**, USA
-* [Porta](http://pizzaporta.com) - 135 Newark Avenue, **Jersey City**, USA
-* [Razza](http://www.razzanj.com) - 275 Grove Street, **Jersey City**, USA
-* [Farina](http://www.farinapizzeria.com) - 510 Central Avenue SE, **Albuquerque**, USA
-* [Slice Parlor](http://www.sliceparlor.com) - 3410 Central Avenue SE, **Albuquerque**, USA
-* [Forcella](https://www.forcellaeatery.com/) - 485 Lorimer Street, **New York**, USA
-* [Lucali](http://www.lucali.com) - 575 Henry Street, **New York**, USA
-* [Paulie Gee's](http://pauliegee.com) - 60 Greenpoint Avenue, **New York**, USA
-* [Roberta's](http://www.robertaspizza.com) - 261 Moore Street, **New York**, USA
-* [Saraghina](http://www.saraghinabrooklyn.com) - 435 Halsey Street, **New York**, USA
-* [John's of Bleeker St](http://www.johnsbrickovenpizza.com) - 278 Bleecker Street, **New York**, USA
-* [Lombardi's](http://www.firstpizza.com) - 32 Spring Street, **New York**, USA
-* [Motorino](http://www.motorinopizza.com) - 349 East 12th Street, **New York**, USA
-* [Prince Street Pizza](http://www.princestreetpizzanyc.com) - 27 Prince Street, **New York**, USA
-* [Standard Pizza Co.](http://www.standardpizzacoasheville.com) - 631 Haywood Road, **Asheville**, USA
-* [Pizzeria Toro](http://www.pizzeriatoro.com) - 105 East Chapel Hill Street, **Durham**, USA
-* [Capital Creations Gourmet Pizza](http://capitalcreations.com) - 1842 Wake Forest Road, **Raleigh**, USA
-* [Brooklyn Pizza](http://www.brooklynpizzapowell.com) - 240 North Liberty Street, **Powell**, USA
-* [Apizza Scholls](http://apizzascholls.com) - 4741 SE Hawthorne Boulevard, **Portland**, USA
-* [Ken's Artisan](http://kensartisan.com) - 338 NW 21st Avenue, **Portland**, USA
-* [Dock Street Brewing Co.](http://www.dockstreetbeer.com) - 701 South 50th Street, **Philadelphia**, USA
-* [In Riva](http://www.in-riva.com) - 4116 Ridge Avenue, **Philadelphia**, USA
-* [Nomad Pizza](http://www.nomadpizzaco.com) - 611 South 7th Street, **Philadelphia**, USA
-* [Aiello's Pizza](http://aiellospizza.com) -  2112 Murray Avenue, **Pittsburgh**, USA
-* [Roma Pizza](http://www.romapizzapottsville.com) - 116 West Market Street, **Pottsville**, USA
-* [Hard Knox Pizzeria Bearden](https://hardknoxpizza.com) - 4437 Kingston Pike, **Knoxville**, USA
-* [Desano Pizza Bakery](http://desanopizza.com) - 115 16th Avenue South, **Nashville**, USA
-* [40 North](http://www.40northpizza.com) - 1502 South 1st Street, **Austin**, USA
-* [The Austin Beer Garden Brewing Company](http://theabgb.com) - 1305 West Oltorf, **Austin**, USA
-* [The Backspace](http://thebackspace-austin.com) - 507 San Jacinto Street, **Austin**, USA
-* [Bufalina](http://www.bufalinapizza.com) - 1519 East Cesar Chavez Street, **Austin**, USA
-* [Frank's Pizza](http://frankspizza.com) - 417 Travis Street, **Houston**, USA
-* [Flying Squirrel](http://www.flyingsquirrelpizza.com) - 4920 S. Genesee Street, **Seattle**, USA
-* [Flying Squirrel](http://www.flyingsquirrelpizza.com) - 8310 5th Avenue NE, **Seattle**, USA
-* [Flying Squirrel](http://www.flyingsquirrelpizza.com) - 5701 Airport Way South, **Seattle**, USA
-* [Humble Pie](http://humblepieseattle.com) - 525 Rainier Avenue South, **Seattle**, USA
-* [Serious Pie](http://seriouspieseattle.com) - 316 Virginia Street, **Seattle**, USA
-* [Via Tribunali](http://viatribunali.com) - 913 East Pike Street, **Seattle**, USA
-* [Salvatore's Tomato Pies](http://salvatorestomatopies.com) - 912 East Johnson Street, **Madison**, USA
+* [Pizzeria Bianco](http://www.pizzeriabianco.com) - 623 E. Adams Street, **Phoenix**, Arizona, USA
+* [The Cheese Board Collective](http://cheeseboardcollective.com) - 1504 Shattuck Avenue, **Berkeley**, California, USA
+* [Emilia's](http://emiliaspizzeria.com) - 2995 Shattuck Avenue, **Berkeley**, California, USA
+* [Celestino's](http://www.celestinosnypizza.com) - 101 Salem Street, **Chicago**, Illinois, USA
+* [Pizzeria Mozza](http://www.pizzeriamozza.com) - 641 North Highland Avenue, **Los Angeles**, California, USA
+* [Nicks](http://oaklandstylepizza.com) - 6211 Shattuck Avenue, **Oakland**, California, USA
+* [Terun](http://terunpizza.com) - 448 S. California Avenue, **Palo Alto**, California, USA
+* [Pizza Port Ocean Beach](http://www.pizzaport.com) - 1956 Bacon Street, **San Diego**, California, USA
+* [Sicilian Thing Pizza](http://www.sicilianthingpizza.com) - 4046 30th Street, **San Diego**, California, USA
+* [Tony's Pizza Napoletana](http://tonyspizzanapoletana.com) - 1570 Stockton Street, **San Francisco**, California, USA
+* [Una Pizza Napoletana](http://www.unapizza.com) - 210 11th Street, **San Francisco**, California, USA
+* [Milo & Olive](http://www.miloandolive.com) - 2723 Wilshire Boulevard, **Santa Monica**, California, USA
+* [Pizzeria Locale](http://localeboulder.com) - 1730 Pearl Street, **Boulder**, Colorado, USA
+* [Lucky Pie Pizza & Taphouse](http://www.lukypiepizza.com/lodo) - 1610 16th Street, **Denver**, Colorado, USA
+* [Grimaldi's Pizzeria](http://www.grimaldispizzeria.com) - 500 16th Street, **Denver**, Colorado, USA
+* [Cart Driver](http://cart-driver.com) - 2500 Larimer Street, **Denver**, Colorado, USA
+* [Da Legna](http://dalegna.com) - 858 State Street, **New Haven**, Connecticut, USA
+* [Modern Apizza](http://www.modernapizza.com) - 874 State Street, **New Haven**, Connecticut, USA
+* [Sally's Apizza](http://www.sallysapizza.com) - 237 Wooster Street, **New Haven**, Connecticut, USA
+* [2 Amys](http://2amyspizza.com) - 3715 Macomb Street NW, **Washington**, DC, USA
+* [Pete's New Haven Pizza](http://petesapizza.com) - 1400 Irving Street NW #103, **Washington**, DC, USA
+* [Leonardo's By The Slice](http://www.leonardosgainesville.com) - 1245 W University Avenue, **Gainesville**, Florida, USA
+* [Satchel's](http://www.satchelspizza.com) - 1800 NE 23rd Avenue, **Gainesville**, Florida, USA
+* [Lazy Moon](http://www.lazymoonpizza.com) - 11551 University Boulevard, **Orlando**, Florida, USA
+* [Ammazza](http://ammazza.com) - 591 Edgewood Avenue, **Atlanta**, Georgia, USA
+* [Antico Pizza Napoletana](http://littleitalia.com) - 1093 Hemphill Avenue, **Atlanta**, Georgia, USA
+* [Coalfire](http://coalfirechicago.com) - 1321 West Grand Avenue, **Chicago**, Illinois, USA
+* [Spacca Napoli](http://www.spaccanapolipizzeria.com) - 1769 West Sunnyside Avenue, **Chicago**, Illinois, USA
+* [Pizza X](http://www.pizzaxbloomington.com) - 1791 East 10th Street, **Bloomington**, Indiana, USA
+* [Napolese](http://napolesepizzeria.com) - 30 S Meridian Street, **Indianapolis**, Indiana, USA
+* [Santarpio's Pizza](http://www.santarpiospizza.com) - 111 Chelsea Street, **Boston**, Massachusetts, USA
+* [Pizza Luce](https://pizzaluce.com) - 119 N 4th Street, **Minneapolis**, Minnesota, USA
+* [Pizzeria Lola](http://www.pizzerialola.com) - 5557 South Xerxes Avenue, **Minneapolis**, Minnesota, USA
+* [Punch Neapolitan Pizza](http://www.punchpizza.com) - 210 E Hennepin Avenue, **Minneapolis**, Minnesota, USA
+* [Settebello](http://settebello.net) - 140 S Green Valley Parkway, **Henderson**, Nevada, USA
+* [Porta](http://pizzaporta.com) - 911 Kingsley Street, **Asbury Park**, New Jersey, USA
+* [DeLorenzo's Pizza](https://www.delorenzospizza.com/) - 147 Sloan Avenue, **Hamilton**, Ohio, USA
+* [Porta](http://pizzaporta.com) - 135 Newark Avenue, **Jersey City**, New Jersey, USA
+* [Razza](http://www.razzanj.com) - 275 Grove Street, **Jersey City**, New Jersey, USA
+* [Farina](http://www.farinapizzeria.com) - 510 Central Avenue SE, **Albuquerque**, New Mexico, USA
+* [Slice Parlor](http://www.sliceparlor.com) - 3410 Central Avenue SE, **Albuquerque**, New Mexico, USA
+* [Forcella](https://www.forcellaeatery.com/) - 485 Lorimer Street, **New York**, New York, USA
+* [Lucali](http://www.lucali.com) - 575 Henry Street, **New York**, New York, USA
+* [Paulie Gee's](http://pauliegee.com) - 60 Greenpoint Avenue, **New York**, New York, USA
+* [Roberta's](http://www.robertaspizza.com) - 261 Moore Street, **New York**, New York, USA
+* [Saraghina](http://www.saraghinabrooklyn.com) - 435 Halsey Street, **New York**, New York, USA
+* [John's of Bleeker St](http://www.johnsbrickovenpizza.com) - 278 Bleecker Street, **New York**, New York, USA
+* [Lombardi's](http://www.firstpizza.com) - 32 Spring Street, **New York**, New York, USA
+* [Motorino](http://www.motorinopizza.com) - 349 East 12th Street, **New York**, New York, USA
+* [Prince Street Pizza](http://www.princestreetpizzanyc.com) - 27 Prince Street, **New York**, New York, USA
+* [Standard Pizza Co.](http://www.standardpizzacoasheville.com) - 631 Haywood Road, **Asheville**, North Carolina, USA
+* [Pizzeria Toro](http://www.pizzeriatoro.com) - 105 East Chapel Hill Street, **Durham**, North Carolina, USA
+* [Capital Creations Gourmet Pizza](http://capitalcreations.com) - 1842 Wake Forest Road, **Raleigh**, North Carolina, USA
+* [Brooklyn Pizza](http://www.brooklynpizzapowell.com) - 240 North Liberty Street, **Powell**, Ohio, USA
+* [Apizza Scholls](http://apizzascholls.com) - 4741 SE Hawthorne Boulevard, **Portland**, Oregon, USA
+* [Ken's Artisan](http://kensartisan.com) - 338 NW 21st Avenue, **Portland**, Oregon, USA
+* [Dock Street Brewing Co.](http://www.dockstreetbeer.com) - 701 South 50th Street, **Philadelphia**, Pennsylvania, USA
+* [In Riva](http://www.in-riva.com) - 4116 Ridge Avenue, **Philadelphia**, Pennsylvania, USA
+* [Nomad Pizza](http://www.nomadpizzaco.com) - 611 South 7th Street, **Philadelphia**, Pennsylvania, USA
+* [Aiello's Pizza](http://aiellospizza.com) -  2112 Murray Avenue, **Pittsburgh**, Pennsylvania, USA
+* [Roma Pizza](http://www.romapizzapottsville.com) - 116 West Market Street, **Pottsville**, Pennsylvania, USA
+* [Hard Knox Pizzeria Bearden](https://hardknoxpizza.com) - 4437 Kingston Pike, **Knoxville**, Tennessee, USA
+* [Desano Pizza Bakery](http://desanopizza.com) - 115 16th Avenue South, **Nashville**, Tennessee, USA
+* [40 North](http://www.40northpizza.com) - 1502 South 1st Street, **Austin**, Texas, USA
+* [The Austin Beer Garden Brewing Company](http://theabgb.com) - 1305 West Oltorf, **Austin**, Texas, USA
+* [The Backspace](http://thebackspace-austin.com) - 507 San Jacinto Street, **Austin**, Texas, USA
+* [Bufalina](http://www.bufalinapizza.com) - 1519 East Cesar Chavez Street, **Austin**, Texas, USA
+* [Frank's Pizza](http://frankspizza.com) - 417 Travis Street, **Houston**, Texas, USA
+* [Flying Squirrel](http://www.flyingsquirrelpizza.com) - 4920 S. Genesee Street, **Seattle**, Washington, USA
+* [Flying Squirrel](http://www.flyingsquirrelpizza.com) - 8310 5th Avenue NE, **Seattle**, Washington, USA
+* [Flying Squirrel](http://www.flyingsquirrelpizza.com) - 5701 Airport Way South, **Seattle**, Washington, USA
+* [Humble Pie](http://humblepieseattle.com) - 525 Rainier Avenue South, **Seattle**, Washington, USA
+* [Serious Pie](http://seriouspieseattle.com) - 316 Virginia Street, **Seattle**, Washington, USA
+* [Via Tribunali](http://viatribunali.com) - 913 East Pike Street, **Seattle**, Washington, USA
+* [Salvatore's Tomato Pies](http://salvatorestomatopies.com) - 912 East Johnson Street, **Madison**, Wisconsin, USA
 * [La Stella del Sud](https://www.instagram.com/la.stella.del.sud.lambach/) - Marktplatz 2, **Lambach**, Austria
 * [Pepper](http://pepper-tirana.com) - Rruga  Brigada e VIII, **Tirana**, Albania
 * [La Piola Pizza](http://www.lapiolapizza.com) - Place Saint-Josse 8, **Bruxelles**, Belgium
@@ -101,10 +101,10 @@ To actually know how to contribute, check the [Contribute file](CONTRIBUTING)
 * [La Piola Pizza](http://www.lapiolapizza.com) - Place Saint-Josse 8, **Bruxelles**, Belgium
 * [La Pizza è Bella](https://lapizzaebella.be/en) - Rue Lebeau 75, **Bruxelles**, Belgium
 * [La Vecchia Napoli](http://www.lavecchianapoli.be) - Pensstraat 6, **Leuven**, Belgium
-* [Bitondo Pizzeria]() - 11 Clinton Street, **Toronto**, Canada
-* [Pizzeria Libretto](http://pizzerialibretto.com) - 155 University Avenue, **Toronto**, Canada
-* [FBI Pizza](http://www.fbipizza.com) - 2336 Lake Shore Boulevard West, **Toronto**, Canada
-* [Zio's](https://m.facebook.com/pages/Zios-Pizza/444640382240517) - 214 Church Street, **Moncton**, Canada
+* [Bitondo Pizzeria]() - 11 Clinton Street, **Toronto**, Ontario, Canada
+* [Pizzeria Libretto](http://pizzerialibretto.com) - 155 University Avenue, **Toronto**, Ontario, Canada
+* [FBI Pizza](http://www.fbipizza.com) - 2336 Lake Shore Boulevard West, **Toronto**, Ontario, Canada
+* [Zio's](https://m.facebook.com/pages/Zios-Pizza/444640382240517) - 214 Church Street, **Moncton**, New Brunswick, Canada
 * [Pizza Nuova](http://www.pizzanuova.cz) - Revoluční 655/1, **Prague**, Czechia
 * [Bæst](http://baest.dk) - Guldbergsgade 29, **Copenhagen**, Denmark
 * [Luca](https://www.iloveluca.dk) - Gammel Strand 42, **Copenhagen**, Denmark
@@ -156,13 +156,13 @@ To actually know how to contribute, check the [Contribute file](CONTRIBUTING)
 * [Pizza Strada](http://www.pizzastrada.jp) - NS Azabu Juban  Bldg. 1F, 3-6-2, **Tokyo**, Japan
 * [La Vecchia Taranto]() - 279 Saint Paul Street, **Valletta**, Malta
 * [Vinoteket](http://vinoteket.no) - Henrik Ibsens Gate 60a, **Oslo**, Norway
-* [Fiorentina](https://fiorentina.com.pl) - Grodzka 63, **Kraków**, Poland
-* [Nolio](https://nolio.pl) - Krakowska 27, **Kraków**, Poland
-* [Pizzeria 00](http://pizzeria00.pl) - Kalwaryjska 32, **Kraków**, Poland
-* [Primo Italian](http://www.primoitalian.pl) - Kazimierza Brodzińskiego 4, **Kraków**, Poland
-* [Ave Pizza](https://www.avepizza.pl) - Topiel 12, **Warsaw**, Poland
-* [Ciao a Tutti Due](https://www.facebook.com/ciaotuttipizza/) - Jarosława Dąbrowskiego 27, **Warsaw**, Poland
-* [Mąka i Woda](https://www.facebook.com/MakaiWoda) - Chmielna 13a, **Warsaw**, Poland
+* [Fiorentina](https://fiorentina.com.pl) - Grodzka 63, **Kraków**, Malopolska, Poland
+* [Nolio](https://nolio.pl) - Krakowska 27, **Kraków**, Malopolska, Poland
+* [Pizzeria 00](http://pizzeria00.pl) - Kalwaryjska 32, **Kraków**, Malopolska, Poland
+* [Primo Italian](http://www.primoitalian.pl) - Kazimierza Brodzińskiego 4, **Kraków**, Malopolska, Poland
+* [Ave Pizza](https://www.avepizza.pl) - Topiel 12, **Warsaw**, Masovia, Poland
+* [Ciao a Tutti Due](https://www.facebook.com/ciaotuttipizza/) - Jarosława Dąbrowskiego 27, **Warsaw**, Masovia, Poland
+* [Mąka i Woda](https://www.facebook.com/MakaiWoda) - Chmielna 13a, **Warsaw**, Poland, Masovia
 * [Forno d'Oro](http://www.fornodoro.pt) - Rua da Artilharia 1 16b, **Lisbon**, Portugal
 * [Animaletto](http://www.animaletto.ro) - Strada Visarion 10, **Bucharest**, Romania
 * [Eataly Moscow](https://www.eataly.ru) - Ulitsa Kiyevskaya 2, **Moscow**, Russia
