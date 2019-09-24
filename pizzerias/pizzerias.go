@@ -22,7 +22,6 @@ var PizzaList []Pizzeria
 
 func init() {
 	PizzaList = []Pizzeria {
-/*	var PizzaList = []Pizzeria { */
 		{"623 E. Adams Street", "Phoenix", "USA", "Pizzeria Bianco", "http://www.pizzeriabianco.com"},
 		{"1504 Shattuck Avenue", "Berkeley", "USA", "The Cheese Board Collective", "http://cheeseboardcollective.com"},
 		{"2995 Shattuck Avenue", "Berkeley", "USA", "Emilia's", "http://emiliaspizzeria.com"},
