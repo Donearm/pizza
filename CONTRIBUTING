@@ -3,7 +3,7 @@
 ## Content Guide
 
 * Deep dish pizza is not pizza and has no place in this project. Focaccia-like "pizzas" too. There's a reason they're called so and not simply pizza.
-* **(Optional)** In README, wrap street addresses in a link with the anchor name `#address`, e.g.,  `[Prince Street Pizza](http://www.yelp.com/biz/prince-st-pizza-new-york)[27 Prince St](#address)`
+* The pizzeria list camps are: address, city, state, country, pizzeria name and website. State is optional as many countries have regions instead of states. Leave it empty if not appliable. Same for website. The other camps are mandatory instead, please make sure they are all present and correctly formatted.
 * Update the GeoJSON with your pizzeria by running `go run go_geocode.go` after you make your edits to the list in the same file.
 * To update also the readme, run `go run generate_markdown.go` and the README.md will be written with the updated pizzerias list.
 
