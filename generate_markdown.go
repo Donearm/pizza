@@ -39,6 +39,28 @@ even.`
 
 const pizzaContributing = `To actually know how to contribute, check the [Contribute file](CONTRIBUTING)`
 
+// Empty a file if it has any content in it
+func emptyFile(filename string) {
+	file, err := os.OpenFile(filename, os.O_RDWR|os.O_CREATE, 0644)
+	if err != nil {
+		fmt.Println("Error truncating the readme")
+		os.Exit(1)
+	}
+	defer file.Close()
+
+	info, err := file.Stat()
+	if err != nil {
+		os.Exit(1)
+	}
+	if info.Size() >= 0 {
+		rerr := os.Remove(filename)
+		if rerr != nil {
+			fmt.Println("Error trying to remove the readme")
+			os.Exit(1)
+		}
+	}
+}
+
 // Helper function to write a string to a file
 func writeToFile(filename string, data string) {
 	file, err := os.OpenFile(filename, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
@@ -47,6 +69,8 @@ func writeToFile(filename string, data string) {
 		os.Exit(1)
 	}
 	defer file.Close()
+
+
 
 	if _, err := file.Write([]byte(data)); err != nil {
 		fmt.Println("Error in writing a string to file: ", data)
@@ -59,6 +83,8 @@ func writeToFile(filename string, data string) {
 
 func main() {
 
+	// check that readme is present already and if so, remove it
+	emptyFile(output)
 	// Save to readme the description of the project
 	writeToFile(output, pizzaTitle)
 	writeToFile(output, "\n\n")
