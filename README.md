@@ -169,6 +169,7 @@ To actually know how to contribute, check the [Contribute file](CONTRIBUTING)
 * [Luciano](http://www.lucianomoscow.ru) - Smolenskaya Square 3, **Moscow**, Russia
 * [Basilicò](https://basilico-italian-restaurant.business.site) - Dunajská 25, **Bratislava**, Slovakia
 * [Pinsa Rustika](https://www.rustika.si/) - Trubarjeva Cesta 44, **Ljubljana**, Slovenia
+* [Pop's Pizza & Sport]() - Breg 2, **Ljubljana**, Slovenia
 * [Trappa](https://www.trappa.si/) - Ulica Koprska 94, **Ljubljana**, Slovenia
 * [Trappica](https://www.trappa.si/) - Rimska Cesta 6, **Ljubljana**, Slovenia
 * [La Balmesina](http://www.labalmesina.com) - Carrer de Balmes 193, **Barcelona**, Spain

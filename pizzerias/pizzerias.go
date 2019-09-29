@@ -173,6 +173,7 @@ func init() {
 		{"Smolenskaya Square 3", "Moscow", "", "Russia", "Luciano", "http://www.lucianomoscow.ru"},
 		{"Dunajská 25", "Bratislava", "", "Slovakia", "Basilicò", "https://basilico-italian-restaurant.business.site"},
 		{"Trubarjeva Cesta 44", "Ljubljana", "", "Slovenia", "Pinsa Rustika", "https://www.rustika.si/"},
+		{"Breg 2", "Ljubljana", "", "Slovenia", "Pop's Pizza & Sport", ""},
 		{"Ulica Koprska 94", "Ljubljana", "", "Slovenia", "Trappa", "https://www.trappa.si/"},
 		{"Rimska Cesta 6", "Ljubljana", "", "Slovenia", "Trappica", "https://www.trappa.si/"},
 		{"Carrer de Balmes 193", "Barcelona", "", "Spain", "La Balmesina", "http://www.labalmesina.com"},
