@@ -127,6 +127,7 @@ To actually know how to contribute, check the [Contribute file](CONTRIBUTING)
 * [Standard Serious Pizza](http://www.standard-berlin.de) - Templiner Straße 7, **Berlin**, Germany
 * [Trattoria Toscana](http://www.toscana-tempelhof.de) - Sredzkistraße 49, **Berlin**, Germany
 * [Montana](http://www.montana-pizzeria.de) - Weserstraße 14, **Franfkurt am Main**, Germany
+* [Jill](https://pizzeria-jill-hamburg.cook-maestro.com/de/) - Bartelsstraße 12, **Hamburg**, Germany
 * [60 Secondi](https://www.60-seconds.de) - Occamstraße 11, **Munchen**, Germany
 * [Manifesto](https://www.manifestorestaurant.ie) - 208 Rathmines Road Lower, **Dublin**, Ireland
 * [Pepe In Grani](http://www.pepeingrani.it) - Vicolo San Giovanni Battista 3, **Caiazzo**, Italy

@@ -131,6 +131,7 @@ func init() {
 		{"Templiner Straße 7", "Berlin", "", "Germany", "Standard Serious Pizza", "http://www.standard-berlin.de"},
 		{"Sredzkistraße 49", "Berlin", "", "Germany", "Trattoria Toscana", "http://www.toscana-tempelhof.de"},
 		{"Weserstraße 14", "Franfkurt am Main", "", "Germany", "Montana", "http://www.montana-pizzeria.de"},
+		{"Bartelsstraße 12", "Hamburg", "", "Germany", "Jill", "https://pizzeria-jill-hamburg.cook-maestro.com/de/"},
 		{"Occamstraße 11", "Munchen", "", "Germany", "60 Secondi", "https://www.60-seconds.de"},
 		{"208 Rathmines Road Lower", "Dublin", "", "Ireland", "Manifesto", "https://www.manifestorestaurant.ie"},
 		{"Vicolo San Giovanni Battista 3", "Caiazzo", "", "Italy", "Pepe In Grani", "http://www.pepeingrani.it"},
