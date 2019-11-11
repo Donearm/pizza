@@ -154,6 +154,7 @@ To actually know how to contribute, check the [Contribute file](CONTRIBUTING)
 * [I Tigli](http://www.pizzeriaitigli.it) - Via Camporosolo 11, **San Bonifacio**, Italy
 * [Pizzeria Fratelli Salvo](http://www.salvopizzaioli.it) - Largo Arso 10-16, **San Giorgio a Cremano**, Italy
 * [Saporè](http://www.saporeverona.it) - Via Ponte 55A, **San Martino Buon Albergo**, Italy
+* [Pizzeria da Lioniello](https://www.facebook.com/pizzeriadalioniello) - Via Murelle 1, **Succivo**, Italy
 * [Pizza Strada](http://www.pizzastrada.jp) - NS Azabu Juban  Bldg. 1F, 3-6-2, **Tokyo**, Japan
 * [La Vecchia Taranto]() - 279 Saint Paul Street, **Valletta**, Malta
 * [Vinoteket](http://vinoteket.no) - Henrik Ibsens Gate 60a, **Oslo**, Norway

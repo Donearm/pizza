@@ -158,6 +158,7 @@ func init() {
 		{"Via Camporosolo 11", "San Bonifacio", "", "Italy", "I Tigli", "http://www.pizzeriaitigli.it"},
 		{"Largo Arso 10-16", "San Giorgio a Cremano", "", "Italy", "Pizzeria Fratelli Salvo", "http://www.salvopizzaioli.it"},
 		{"Via Ponte 55A", "San Martino Buon Albergo", "", "Italy", "Saporè", "http://www.saporeverona.it"},
+		{"Via Murelle 1", "Succivo", "", "Italy", "Pizzeria da Lioniello", "https://www.facebook.com/pizzeriadalioniello"},
 		{"NS Azabu Juban  Bldg. 1F, 3-6-2", "Tokyo", "", "Japan", "Pizza Strada", "http://www.pizzastrada.jp"},
 		{"279 Saint Paul Street", "Valletta", "", "Malta", "La Vecchia Taranto", ""},
 		{"Henrik Ibsens Gate 60a", "Oslo", "", "Norway", "Vinoteket", "http://vinoteket.no"},
