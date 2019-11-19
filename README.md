@@ -103,6 +103,9 @@ To actually know how to contribute, check the [Contribute file](CONTRIBUTING)
 * [La Vecchia Napoli](http://www.lavecchianapoli.be) - Pensstraat 6, **Leuven**, Belgium
 * [Bitondo Pizzeria]() - 11 Clinton Street, **Toronto**, Ontario, Canada
 * [Pizzeria Libretto](http://pizzerialibretto.com) - 155 University Avenue, **Toronto**, Ontario, Canada
+* [Pizzeria Libretto](http://pizzerialibretto.com) - 545 King Street, **Toronto**, Ontario, Canada
+* [Pizzeria Libretto](http://pizzerialibretto.com) - 221 Ossington Avenue, **Toronto**, Ontario, Canada
+* [Pizzeria Libretto](http://pizzerialibretto.com) - 550 Danforth Avenue, **Toronto**, Ontario, Canada
 * [FBI Pizza](http://www.fbipizza.com) - 2336 Lake Shore Boulevard West, **Toronto**, Ontario, Canada
 * [Zio's](https://m.facebook.com/pages/Zios-Pizza/444640382240517) - 214 Church Street, **Moncton**, New Brunswick, Canada
 * [Pizza Nuova](http://www.pizzanuova.cz) - Revoluční 655/1, **Prague**, Czechia
