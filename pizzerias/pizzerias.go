@@ -107,7 +107,7 @@ func init() {
 		{"Pensstraat 6", "Leuven", "", "Belgium", "La Vecchia Napoli", "http://www.lavecchianapoli.be"},
 		{"11 Clinton Street", "Toronto", "Ontario", "Canada", "Bitondo Pizzeria", ""},
 		{"155 University Avenue", "Toronto", "Ontario", "Canada", "Pizzeria Libretto", "http://pizzerialibretto.com"},
-		{"545 King Street", "Toronto", "Ontario", "Canada", "Pizzeria Libretto", "http://pizzerialibretto.com"},
+		{"545 King Street West", "Toronto", "Ontario", "Canada", "Pizzeria Libretto", "http://pizzerialibretto.com"},
 		{"221 Ossington Avenue", "Toronto", "Ontario", "Canada", "Pizzeria Libretto", "http://pizzerialibretto.com"},
 		{"550 Danforth Avenue", "Toronto", "Ontario", "Canada", "Pizzeria Libretto", "http://pizzerialibretto.com"},
 		{"2336 Lake Shore Boulevard West", "Toronto", "Ontario", "Canada", "FBI Pizza", "http://www.fbipizza.com"},
