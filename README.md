@@ -161,6 +161,7 @@ To actually know how to contribute, check the [Contribute file](CONTRIBUTING)
 * [Pizza Strada](http://www.pizzastrada.jp) - NS Azabu Juban  Bldg. 1F, 3-6-2, **Tokyo**, Japan
 * [La Vecchia Taranto]() - 279 Saint Paul Street, **Valletta**, Malta
 * [Vinoteket](http://vinoteket.no) - Henrik Ibsens Gate 60a, **Oslo**, Norway
+* [Ostro](https://ostropizza.business.site) - Długie Pobrzeże 15, **Gdánsk**, Pomorskie, Poland
 * [Fiorentina](https://fiorentina.com.pl) - Grodzka 63, **Kraków**, Malopolska, Poland
 * [Nolio](https://nolio.pl) - Krakowska 27, **Kraków**, Malopolska, Poland
 * [Pizzeria 00](http://pizzeria00.pl) - Kalwaryjska 32, **Kraków**, Malopolska, Poland

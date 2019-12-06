@@ -165,6 +165,7 @@ func init() {
 		{"NS Azabu Juban  Bldg. 1F, 3-6-2", "Tokyo", "", "Japan", "Pizza Strada", "http://www.pizzastrada.jp"},
 		{"279 Saint Paul Street", "Valletta", "", "Malta", "La Vecchia Taranto", ""},
 		{"Henrik Ibsens Gate 60a", "Oslo", "", "Norway", "Vinoteket", "http://vinoteket.no"},
+		{"Długie Pobrzeże 15", "Gdánsk", "Pomorskie", "Poland", "Ostro", "https://ostropizza.business.site"},
 		{"Grodzka 63", "Kraków", "Malopolska", "Poland", "Fiorentina", "https://fiorentina.com.pl"},
 		{"Krakowska 27", "Kraków", "Malopolska", "Poland", "Nolio", "https://nolio.pl"},
 		{"Kalwaryjska 32", "Kraków", "Malopolska", "Poland", "Pizzeria 00", "http://pizzeria00.pl"},
