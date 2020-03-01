@@ -137,21 +137,40 @@ To actually know how to contribute, check the [Contribute file](CONTRIBUTING)
 * [I Masanielli](https://www.facebook.com/masaniellisasamartucci) - Via Antonio Vivaldi 23, **Caserta**, Italy
 * [La Loggetta](https://www.facebook.com/PIZZERIALALOGGETTALAB) - Piazza Matteotti 40, **Caserta**, Italy
 * [Tre Farine](http://www.trefarine.it) - Via Cesare Battisti 46, **Caserta**, Italy
+* [Pizzeria Le Parùle](https://www.facebook.com/PizzeriaLeParule/) - Via Sacerdote Cozzolino Benedetto 71, **Ercolano**, Italy
 * [Olio a Crudo](https://www.sorbillo.it/pizzeria-olio-a-crudo) - Via Montevideo 4, **Milan**, Italy
 * [50 Kalò](http://www.50kalo.it) - Piazza Sannazaro 201/c, **Naples**, Italy
+* [Pizzeria Carmnella](http://www.carmnella.it/) - Via Marino Cristoforo 22, **Naples**, Italy
+* [Pizzeria da Attilio](https://www.pizzeriadaattilio.com/) - Via Pignasecca 17, **Naples**, Italy
 * [Di Matteo](http://www.pizzeriadimatteo.com) - Via dei Tribunali 94, **Naples**, Italy
 * [Gino e Toto Sorbillo](http://www.sorbillo.it) - Via dei Tribunali 32, **Naples**, Italy
 * [L'Antica Pizzeria da Michele](http://www.damichele.net) - Via Cesare Sersale 1-3, **Naples**, Italy
 * [La Notizia](http://www.pizzarialanotizia.com) - Via Michelangelo da Caravaggio 53, **Naples**, Italy
+* [Lombardi 1892](https://www.pizzerialombardi.it/) - Via Foria 12/14, **Naples**, Italy
+* [Pizzeria Ciarly](https://www.facebook.com/Ciarly-588923757831936/) - Piazzale Vincenzo Tecchio 35, **Naples**, Italy
+* [Pizzeria Gaetano Genovesi](http://www.pizzeriagaetanogenovesi.it/) - Via Alessandro Manzoni 26, **Naples**, Italy
+* [Pizzeria Pellone](https://www.facebook.com/PizzeriaPellone) - Via Nazionale 93, **Naples**, Italy
+* [Pizzeria Vincenzo Capuano](https://www.facebook.com/pizzeriavincenzocapuano/) - Piazza Vittoria 8, **Naples**, Italy
 * [Starita](https://www.pizzeriastarita.it) - Via Materdei 27/28, **Naples**, Italy
 * [10 Diego Vitagliano](http://www.10pizzeria.it) - Via Nuova Agnano 1, **Pozzuoli**, Italy
 * [Biga280](http://www.biga280.it) - Via Campi Flegrei 13, **Pozzuoli**, Italy
 * [Angelo Pezzella](http://www.angelopezzella.it) - Via Appia Nuova 1095, **Rome**, Italy
 * [Berberè](https://www.berperepizza.it/en) - Via Mantova 5, **Rome**, Italy
+* [Fornace Stella](https://www.fornacestella.it/) - Piazza Lecce 9, **Rome**, Italy
+* [Gino Sorbillo - Lievito Madre a Roma](https://www.sorbillo.it/) - Piazza Augusto Imperatore 46, **Rome**, Italy
 * [I Quintili](https://www.facebook.com/Iquintili1) - Via San Biagio Platani 320, **Rome**, Italy
 * [La Gatta Mangiona](http://www.lagattamangiona.com) - Via Federico Ozanam 30-32, **Rome**, Italy
+* [L'Antica Pizzeria Da Michele](http://www.damichele.net/) - Via Flaminia 82, **Rome**, Italy
+* [L'Antica Pizzeria Da Michele Trevi](http://www.damichele.net/) - Via Dei Lucchesi 28, **Rome**, Italy
 * [Piccolo Buco](https://www.pizzeriapiccolobuco.it) - Via del Lavatore 91, **Rome**, Italy
 * [Pizzarium](http://www.bonci.it) - Via della  Meloria 43, **Rome**, Italy
+* [Proloco Trastevere](http://www.prolocotrastevere.it/) - Via Goffredo Mameli 23, **Rome**, Italy
+* [Qvinto](https://qvintoroma.it/) - Via Fornaci di Tor di Quinto 10, **Rome**, Italy
+* [Salvatore Di Matteo Le Gourmet](https://www.facebook.com/salvatoredimatteolegourmetroma/) - Via Vittoria Colonna 32, **Rome**, Italy
+* [Sbanco](https://sbanco.eatbu.com/?lang=en) - Via Siria 1, **Rome**, Italy
+* [Seu Pizza Illuminati](https://www.facebook.com/seupizzailluminati/) - Via Angelo Bargoni 10-18, **Rome**, Italy
+* [Sforno](http://www.sforno.it/) - Via Statilio Ottato 110/116, **Rome**, Italy
+* [Verace Sudd](https://www.veracesudd.it/) - Via della Frezza 64, **Rome**, Italy
 * [Capri](http://www.capripizzeriasalerno.it) - Via Torrione 36, **Salerno**, Italy
 * [Resilienza](https://www.facebook.com/PizzeriaResilienza) - Via Andrea Sabatini 4, **Salerno**, Italy
 * [I Tigli](http://www.pizzeriaitigli.it) - Via Camporosolo 11, **San Bonifacio**, Italy
@@ -196,6 +215,7 @@ To actually know how to contribute, check the [Contribute file](CONTRIBUTING)
 * [L'Antica Pizzeria da Michele](https://www.anticapizzeriadamichele.co.uk) - 199 Baker Street, **London**, UK
 * [Made of Dough](http://www.madeofdough.co.uk) - 182 Bellenden Road, **London**, UK
 * [Pizza Pilgrims](http://pizzapilgrims.co.uk) - 11 Dean Street, **London**, UK
+* [Pizzeria Pellone](https://www.pizzeriapellonelondon.co.uk/) - 42 Lavender Hill, **London**, UK
 * [Princi](http://www.princi.com) - 135 Wardour Street, **London**, UK
 * [Santoré](http://www.santorerestaurant.london) - 59-61 Exmouth Market, **London**, UK
 * [Sodo Pizza Hoxton](https://www.sodopizza.co.uk) - 63 Pitfield Street, **London**, UK
