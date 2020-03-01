@@ -9,9 +9,6 @@ let searchCtrl = L.control.fuseSearch({panelTitle: "Search for a specific pizzer
 var pizzerias = $.ajax({
 	dataType: "json",
 	url: "pizzerias.geojson",
-/*	success: function(data) {
-/*		console.log(data);
-/*	}, */
 	error: function(xhr) {
 		alert(xhr.statusText);
 	}
