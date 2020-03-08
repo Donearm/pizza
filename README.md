@@ -63,6 +63,7 @@ To actually know how to contribute, check the [Contribute file](CONTRIBUTING)
 * [Forcella](https://www.forcellaeatery.com/) - 485 Lorimer Street, **New York**, New York, USA
 * [Lucali](http://www.lucali.com) - 575 Henry Street, **New York**, New York, USA
 * [Paulie Gee's](http://pauliegee.com) - 60 Greenpoint Avenue, **New York**, New York, USA
+* [Ribalta MO](http://www.thepennsy.nyc/ribalta/) - 2 Pennsylvania Plaza, **New York**, New York, USA
 * [Roberta's](http://www.robertaspizza.com) - 261 Moore Street, **New York**, New York, USA
 * [Saraghina](http://www.saraghinabrooklyn.com) - 435 Halsey Street, **New York**, New York, USA
 * [John's of Bleeker St](http://www.johnsbrickovenpizza.com) - 278 Bleecker Street, **New York**, New York, USA
@@ -137,21 +138,29 @@ To actually know how to contribute, check the [Contribute file](CONTRIBUTING)
 * [I Masanielli](https://www.facebook.com/masaniellisasamartucci) - Via Antonio Vivaldi 23, **Caserta**, Italy
 * [La Loggetta](https://www.facebook.com/PIZZERIALALOGGETTALAB) - Piazza Matteotti 40, **Caserta**, Italy
 * [Tre Farine](http://www.trefarine.it) - Via Cesare Battisti 46, **Caserta**, Italy
+* [La Filiale](https://www.albereta.it/franciacorta/chiosco-la-filiale/) - Via Vittorio Emanuele 23, **Erbusco**, Italy
 * [Pizzeria Le Parùle](https://www.facebook.com/PizzeriaLeParule/) - Via Sacerdote Cozzolino Benedetto 71, **Ercolano**, Italy
+* [Marì](https://www.pizzeriamari.com/) - Via Lodovico Settala 16, **Milan**, Italy
 * [Olio a Crudo](https://www.sorbillo.it/pizzeria-olio-a-crudo) - Via Montevideo 4, **Milan**, Italy
+* [TasteiT](https://www.tasteitgourmet.com/) - Largo Aldo Moro 24, **Modena**, Italy
 * [50 Kalò](http://www.50kalo.it) - Piazza Sannazaro 201/c, **Naples**, Italy
 * [Pizzeria Carmnella](http://www.carmnella.it/) - Via Marino Cristoforo 22, **Naples**, Italy
 * [Pizzeria da Attilio](https://www.pizzeriadaattilio.com/) - Via Pignasecca 17, **Naples**, Italy
 * [Di Matteo](http://www.pizzeriadimatteo.com) - Via dei Tribunali 94, **Naples**, Italy
+* [Franco Gallifuoco Pizzeria](https://www.facebook.com/francogallifuocopizzeria/) - Corso Arnaldo Lucci 195, **Naples**, Italy
 * [Gino e Toto Sorbillo](http://www.sorbillo.it) - Via dei Tribunali 32, **Naples**, Italy
 * [L'Antica Pizzeria da Michele](http://www.damichele.net) - Via Cesare Sersale 1-3, **Naples**, Italy
 * [La Notizia](http://www.pizzarialanotizia.com) - Via Michelangelo da Caravaggio 53, **Naples**, Italy
 * [Lombardi 1892](https://www.pizzerialombardi.it/) - Via Foria 12/14, **Naples**, Italy
+* [Lucignolo Bella Pizza](http://www.lucignolobellapizzarestaurant.it/) - Piazza Nazionale 87, **Naples**, Italy
 * [Pizzeria Ciarly](https://www.facebook.com/Ciarly-588923757831936/) - Piazzale Vincenzo Tecchio 35, **Naples**, Italy
 * [Pizzeria Gaetano Genovesi](http://www.pizzeriagaetanogenovesi.it/) - Via Alessandro Manzoni 26, **Naples**, Italy
 * [Pizzeria Pellone](https://www.facebook.com/PizzeriaPellone) - Via Nazionale 93, **Naples**, Italy
 * [Pizzeria Vincenzo Capuano](https://www.facebook.com/pizzeriavincenzocapuano/) - Piazza Vittoria 8, **Naples**, Italy
 * [Starita](https://www.pizzeriastarita.it) - Via Materdei 27/28, **Naples**, Italy
+* [Engele Pizza Verkostung](https://www.facebook.com/engelemerano/) - Via Roma 113, **Merano**, Italy
+* [Pizzeria 450 Gradi di Gianfranco Iervolino](http://www.gianfrancoiervolino.it/) - Via Giotto 2, **Pomigliano d'Arco**, Italy
+* [I Matti](http://www.imatti.it/) - Via Plinio 53, **Pompeii**, Italy
 * [10 Diego Vitagliano](http://www.10pizzeria.it) - Via Nuova Agnano 1, **Pozzuoli**, Italy
 * [Biga280](http://www.biga280.it) - Via Campi Flegrei 13, **Pozzuoli**, Italy
 * [Angelo Pezzella](http://www.angelopezzella.it) - Via Appia Nuova 1095, **Rome**, Italy
